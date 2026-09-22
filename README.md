@@ -25,7 +25,8 @@ cd environments/locally
 terraform init
 ```
 
--> Note: It's possible to use OpenTofu here by substituting `terraform` for `tofu`.
+> [!NOTE]
+> It's possible to use OpenTofu here by substituting `terraform` for `tofu`.
 
 With Terraform initialised, we can then provision the example by running:
 
