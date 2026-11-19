@@ -19,7 +19,7 @@ This example shows how to deploy WordPress on App Service, to [Locally Build](ht
 * [Locally Build](https://locally.build).
 * Either [HashiCorp Terraform](https://terraform.io) or [OpenTofu](https://opentofu.org).
 * Either [Docker](https://www.docker.com) or [Podman](https://podman.io) (recommended).
-* The Locally Plugin for `Microsoft.DBforPostgreSQL` installed (`locally plugin install --name Microsoft.DBforPostgreSQL`).
+* The Locally Plugin for `Microsoft.DBforMySQL` installed (`locally plugin install --name Microsoft.DBforMySQL`).
 * The Locally Plugin for `Microsoft.Web` installed (`locally plugin install --name Microsoft.Web`).
 
 ## Running the example
